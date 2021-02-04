@@ -3,3 +3,11 @@ FoodMart is a grocery retail chain doing business in USA, Canada & Mexico. Analy
 
 Below is the data model:
 
+![alt text]("https://github.com/jayedhussain/PowerBI_Dashboard_Grocery_Retail_Sales/blob/main/Images/FoodMart_Data_Model.png")
+
+
+
+
+
+![alt text]
+
