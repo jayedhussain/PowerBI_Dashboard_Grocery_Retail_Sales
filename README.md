@@ -8,6 +8,11 @@ Below is the data model:
 Dashboard: 
 
 Business overview
+Overview page includes important KPI of overall Business.
+  1. Daily Transactions, 10 Day Rolling Transaction & 10 Day Rolling Average of daily transactions.
+  2. Total Profit & Revenue, Revenue Trend.
+  3. Monthly Profit, % of Month over Month Profit Change, 6 Months Rolling Profit.
+  4. Daily Profit, Month to Date Profit, Quarter to Date Profit & Year to Date Profit.
 
 ![alt text](https://github.com/jayedhussain/PowerBI_Dashboard_Grocery_Retail_Sales/blob/main/Images/FM_Overview.png)
 
