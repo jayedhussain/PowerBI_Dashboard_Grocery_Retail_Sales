@@ -31,7 +31,7 @@ Regional insights
 
 Customer Analysis
 
-![alt text](https://github.com/jayedhussain/PowerBI_Dashboard_Grocery_Retail_Sales/blob/main/Images/FM_Customer%20Insights.png)
+![alt text](https://github.com/jayedhussain/PowerBI_Dashboard_Grocery_Retail_Sales/blob/main/Images/Customer%20Analysis%20new.png)
 
 Sales forecasting of next 4 months
 
