@@ -21,9 +21,13 @@ Product analysis
 
 ![alt text](https://github.com/jayedhussain/PowerBI_Dashboard_Grocery_Retail_Sales/blob/main/Images/FM_Product_Analysis.png)
 
-Return analysis & Regional insights
+Return analysis
 
-![alt text](https://github.com/jayedhussain/PowerBI_Dashboard_Grocery_Retail_Sales/blob/main/Images/FM_Return_Region%20Analysis.png)
+![alt text](https://github.com/jayedhussain/PowerBI_Dashboard_Grocery_Retail_Sales/blob/main/Images/Return%20Analysis.png)
+
+Regional insights
+
+![alt text](https://github.com/jayedhussain/PowerBI_Dashboard_Grocery_Retail_Sales/blob/main/Images/Regional%20Insights.png)
 
 Customer Analysis
 
