@@ -31,6 +31,11 @@ Product analysis page includes insights about
 
 Return analysis
 
+Returnt related insights have been visualized in return analysis page such as
+  1. Total return rate, total quantity returned.
+  2. Amount of quantity returned of individual products & their return rate.
+  3. Return rate of every brands.
+
 ![alt text](https://github.com/jayedhussain/PowerBI_Dashboard_Grocery_Retail_Sales/blob/main/Images/Return%20Analysis.png)
 
 Regional insights
