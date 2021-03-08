@@ -5,9 +5,9 @@ Below is the data model:
 
 ![alt text](https://github.com/jayedhussain/PowerBI_Dashboard_Grocery_Retail_Sales/blob/main/Images/FoodMart_Data_Model.png)
 
-Dashboard: 
+## Dashboard: 
 
-Business overview
+## Business overview
 
 Overview page includes important KPI of overall Business.
   1. Daily Transactions, 10 Day Rolling Transaction & 10 Day Rolling Average of daily transactions.
