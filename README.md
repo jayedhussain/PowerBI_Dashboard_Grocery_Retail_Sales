@@ -40,6 +40,11 @@ Returnt related insights have been visualized in return analysis page such as
 
 Regional insights
 
+Regional insights visualized KPIs related to location and stores such as
+  1. Store types & their respective revenue. 
+  2. Store numbers & types in different locations.
+  3. Revenue generated from different locations.
+
 ![alt text](https://github.com/jayedhussain/PowerBI_Dashboard_Grocery_Retail_Sales/blob/main/Images/Regional%20Insights.png)
 
 Customer Analysis
