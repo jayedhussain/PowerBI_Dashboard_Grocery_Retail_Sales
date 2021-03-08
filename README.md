@@ -18,6 +18,12 @@ Overview page includes important KPI of overall Business.
 
 
 Product analysis
+Product analysis page includes insights about
+  1. Top brands by profit and revenue, ranking of brands.
+  2. Top brands by quantity sold and profit, ranking of brands.
+  3. Top products by profit and revenue, ranking of products.
+  4. Top products by quantity sold and profit, ranking of products accordingly.
+  5. Percentage of products sold whether recyclable or not & fat amount.
 
 ![alt text](https://github.com/jayedhussain/PowerBI_Dashboard_Grocery_Retail_Sales/blob/main/Images/FM_Product_Analysis.png)
 
