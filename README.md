@@ -47,7 +47,7 @@ Regional insights visualized KPIs related to location and stores such as
 
 ![alt text](https://github.com/jayedhussain/PowerBI_Dashboard_Grocery_Retail_Sales/blob/main/Images/Regional%20Insights.png)
 
-Customer Analysis
+## Customer Analysis
 
 Customer analysis page visualized about customer related KPIs
   1. Top customers by revenue & quantity brought
