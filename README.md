@@ -18,7 +18,7 @@ Overview page includes important KPI of overall Business.
 ![alt text](https://github.com/jayedhussain/PowerBI_Dashboard_Grocery_Retail_Sales/blob/main/Images/FM_Overview.png)
 
 
-Product analysis
+## Product analysis
 
 Product analysis page includes insights about
   1. Top brands by profit and revenue, ranking of brands.
