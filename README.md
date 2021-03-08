@@ -57,6 +57,6 @@ Customer analysis page visualized about customer related KPIs
 
 ![alt text](https://github.com/jayedhussain/PowerBI_Dashboard_Grocery_Retail_Sales/blob/main/Images/Customer%20Analysis%20new.png)
 
-Sales forecasting of next 4 months
+## Sales forecasting of next 4 months
 
 ![alt text](https://github.com/jayedhussain/PowerBI_Dashboard_Grocery_Retail_Sales/blob/main/Images/Sales%20Forecast.png)
