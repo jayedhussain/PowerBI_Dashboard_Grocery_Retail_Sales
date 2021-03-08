@@ -49,6 +49,12 @@ Regional insights visualized KPIs related to location and stores such as
 
 Customer Analysis
 
+Customer analysis page visualized about customer related KPIs
+  1. Top customers by revenue & quantity brought
+  2. Customer's income groups
+  3. Customers by country
+  4. Customer's group by educaton lebel, family members & membership lebel.
+
 ![alt text](https://github.com/jayedhussain/PowerBI_Dashboard_Grocery_Retail_Sales/blob/main/Images/Customer%20Analysis%20new.png)
 
 Sales forecasting of next 4 months
