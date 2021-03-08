@@ -8,6 +8,7 @@ Below is the data model:
 Dashboard: 
 
 Business overview
+
 Overview page includes important KPI of overall Business.
   1. Daily Transactions, 10 Day Rolling Transaction & 10 Day Rolling Average of daily transactions.
   2. Total Profit & Revenue, Revenue Trend.
